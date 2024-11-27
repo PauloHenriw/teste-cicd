@@ -1,0 +1,12 @@
+{
+  "name": "teste-cicd",
+  "version": "1.0.0",
+  "description": "Repositório de teste para configurar CI/CD com review",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Rodando testes fictícios!\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
